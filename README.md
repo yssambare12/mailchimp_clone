@@ -28,19 +28,19 @@ Mailchimp is an all-in-one Marketing Platform for small business. Which empower 
 
 1. Landing Page
 
-<img src="./readme images/img1.jpg"/>
+<img src="https://github.com/sandeepbeherakbl/mailchimp_clone/raw/main/readme%20images/img1.jpg"/>
 
 2. sign up page
 
-<img src="./readme images/img2.jpg"/>
+<img src="https://github.com/sandeepbeherakbl/mailchimp_clone/raw/main/readme%20images/img2.jpg"/>
 
 3. Login Page
 
-<img src="./readme images/img3.jpg"/>
+<img src="https://github.com/sandeepbeherakbl/mailchimp_clone/raw/main/readme%20images/img3.jpg"/>
 
 4. User Dashboard
 
-<img src="./readme images/img4.jpg"/>
+<img src="https://github.com/sandeepbeherakbl/mailchimp_clone/raw/main/readme%20images/img4.jpg"/>
 
 5. Email Design Page
 
