@@ -1,7 +1,7 @@
 # mailchimp_clone
 This project is made for educational purpose
 
-<img src="readme images/logo.jpg"/>
+<img src="https://github.com/sandeepbeherakbl/mailchimp_clone/raw/main/readme%20images/logo.jpg"/>
 
 
 ## About Us
